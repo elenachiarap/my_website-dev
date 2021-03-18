@@ -1,0 +1,150 @@
+
+body {
+  margin: 0;
+background-color: #f8f4e1;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 500%;
+  color: white;
+  font-family: 'Rammetto One', sans-serif;
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #c15050;
+  padding-top: 350px;
+  position: relative;
+}
+
+.mountain-img {
+  padding: 0;
+}
+
+.profile-container {
+margin-top: 150px;
+}
+
+.profile-container p {
+  padding-bottom: 50px;
+}
+
+.middle-container {
+margin-top: 150px;
+}
+
+
+.contact-me h2{
+  padding-top: 25px;
+}
+
+hr {
+  width: 75px;
+border-top: 8px dotted #693c72;
+}
+
+
+.profile-img {
+  width: 300px;
+  border-radius: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 250px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+
+h2 {
+  font-size: 25px;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Rammetto One', sans-serif;
+font-size: 25px;
+color: #693c72;
+}
+
+span {
+font-style: italic;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+
+}
+
+.skill-row p {
+  line-height: 2;
+}
+
+.maria {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 50px;
+
+}
+
+.vintage {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+  border-radius: 50px;
+}
+
+.contact_button {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   font-size: 14px;
+   font-weight: 400;
+   padding: 20px;
+   background-color: #C15050;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 120px;
+}
+
+.contact_button:hover {
+   background: #1E62D0;
+   border: dotted #DD380D 1px;
+   -webkit-border-radius: 21px;
+   -moz-border-radius: 21px;
+   border-radius: 21px;
+   text-decoration: none;
+}
+
+.bottom-container {
+background-color: #693c72;
+padding: 50px;
+}
+
+.bottom-container p {
+color: white;
+}
+
+.footer-link {
+color: white;
+padding: 15px;
+text-decoration: none;
+}
